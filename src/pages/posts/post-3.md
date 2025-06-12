@@ -1,12 +1,13 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Mi tercera publicación en el blog
 author: Alumno de Astro
-description: 'Tuve algunos problemas, pero preguntar en la comunidad me ayudó mucho.'
+description: "Tuve algunos problemas, pero preguntar en la comunidad me ayudó mucho."
 image:
-    url: 'https://docs.astro.build/assets/rays.webp'
-    alt: 'Miniatura de los rayos de Astro.'
+  url: "https://docs.astro.build/assets/rays.webp"
+  alt: "Miniatura de los rayos de Astro."
 pubDate: 2025-05-15
-tags: ['astro', 'aprender en público', 'contratiempos', 'comunidad']
+tags: ["astro", "aprender en público", "contratiempos", "comunidad"]
 ---
 
 No siempre ha sido fácil, pero disfruto construyendo con Astro. Además, la [comunidad de Discord](https://astro.build/chat) es muy amable y servicial.
